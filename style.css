@@ -13,7 +13,7 @@ h1{margin-right: 30%;
 }
 
 h2 {text-align: center;
-    color: rgb(248, 248, 248);
+    color: rgb(0, 0, 0);
     background-color: aliceblue;
 }
 
@@ -27,11 +27,11 @@ h3 { text-align: center;
 }
 
 
-#ima1 {margin-left: 50%;
+#ima1 {margin-left: 40%;
     width: 30%;
 }
 #ima2 {width: 30%;
-    margin-left: 50%;
+    margin-left: 40%;
 }
 
 
