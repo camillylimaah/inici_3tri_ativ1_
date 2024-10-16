@@ -5,7 +5,7 @@ h1 {text-align: center;
     color: rgb(235, 75, 75);
     margin-left: 20%;
     border-style:dotted;
-    border-color:  rgba(182, 238, 118, 0.925);
+    border-color:  rgb(0, 0, 0);
     border-width: 6px;
 }
 
